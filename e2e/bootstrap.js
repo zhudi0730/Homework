@@ -3,6 +3,7 @@ const { expect } = require('chai');
 const _ = require('lodash');
 const globalVariables = _.pick(global, ['browser', 'expect']);
 
+//呵呵
 // puppeteer options
 const options = {
   headless: false,
